@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **NodeJS and AWS services**
 
 <h3 align="left">Projects:</h3>
-- <a href="https://github.com/Rollerf/shopping-list-back">Node TS project using Lambda, dynamo and cdk</a>
+- <a href="https://github.com/Rollerf/shopping-list-back">Node TS project using Lambda, dynamo and cdk</a>\
 - <a href="https://github.com/Rollerf/crm-service">Spring Boot API example with JPA, Postgresql, Docker and Amazon AWS S3</a>
 
 <h3 align="left">Languages and Tools:</h3>
